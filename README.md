@@ -1,4 +1,4 @@
-# Graph Neural Networks & Network Science Explorations
+# Knowledge Graphs and GNNs Deep Dive
 
 Welcome to my repository of projects and tutorials on Network Science and Graph Neural Networks (GNNs). This collection serves as a practical journey through the foundational concepts of graph theory to the implementation of modern GNN architectures and knowledge representation techniques.
 
@@ -117,8 +117,8 @@ To run these notebooks, it is recommended to use a virtual environment.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/majid-200/Knowledge-Graphs-and-GNNs-Deep-Dive.git
+    cd Knowledge-Graphs-and-GNNs-Deep-Dive
     ```
 
 2.  **Create and activate a conda environment:**
